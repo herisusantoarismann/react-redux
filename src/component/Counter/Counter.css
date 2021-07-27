@@ -1,0 +1,14 @@
+.counter {
+  margin-left: 50px;
+  display: flex;
+}
+
+.counter button {
+  margin-left: 20px;
+  height: 50%;
+  margin-top: 15px;
+}
+
+h1 {
+  margin-left: 50px;
+}
